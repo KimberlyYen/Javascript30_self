@@ -1,6 +1,0 @@
-node_modules
-.yarn
-.DS_Store
-.vscode/*
-.parcel-cache/
-.prettierrc

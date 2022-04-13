@@ -1,0 +1,8 @@
+{
+  "editor.defaultFormatter": "SimonSiefke.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+  }
+}
